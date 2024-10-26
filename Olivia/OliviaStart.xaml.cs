@@ -6,4 +6,9 @@ public partial class OliviaStart : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    private async void StartVendespil(object sender, EventArgs e)
+    {
+		await Shell.Current.GoToAsync(nameof(Vendespil));
+    }
 }

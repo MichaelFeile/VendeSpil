@@ -8,5 +8,6 @@
             Text="velkommen"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
+        <Button Text="vendespil" Clicked="StartVendespil"/>
     </VerticalStackLayout>
 </ContentPage>
