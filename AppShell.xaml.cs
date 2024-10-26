@@ -9,6 +9,7 @@
             Routing.RegisterRoute(nameof(Far.FarStart), typeof(Far.FarStart));
             Routing.RegisterRoute(nameof(Julius.JuliusStart), typeof(Julius.JuliusStart));
             Routing.RegisterRoute(nameof(Olivia.OliviaStart), typeof(Olivia.OliviaStart));
+            Routing.RegisterRoute(nameof(Olivia.Vendespil), typeof(Olivia.Vendespil));
         }
     }
 }

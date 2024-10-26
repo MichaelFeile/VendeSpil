@@ -91,6 +91,9 @@
 	  <MauiXaml Update="Olivia\OliviaStart.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Olivia\Vendespil.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 
 </Project>
